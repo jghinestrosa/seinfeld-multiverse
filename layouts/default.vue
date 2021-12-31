@@ -7,7 +7,12 @@
 		<main>
 			<Nuxt class="hola"/>
 			<footer>
-				<img src="~assets/seinfeld-faces.GIF" alt="A gif that shows the faces of the main cast of Seinfeld" />
+				<p>
+					<NuxtLink to="/about">About</NuxtLink>
+				</p>
+				<p>
+					<img src="~assets/seinfeld-faces.GIF" alt="A gif that shows the faces of the main cast of Seinfeld" />
+				</p>
 				<p>Made with love and yada yada yada</p>
 			</footer>
 		</main>
