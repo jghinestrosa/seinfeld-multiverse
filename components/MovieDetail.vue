@@ -1,37 +1,27 @@
 <template>
 	<div class="movie-detail-wrapper">
 		<p>Year: {{movie.year}}</p>
-		<div class="character" v-for="character in movie.characters">
-			<img class="character-image" :src="require(`~/assets/${character.inMovie.img}`)" alt="" />
-      <p>{{character.description}}</p>
-		</div>
+		<h4>In this universe...</h4>
+		<Character v-for="character in movie.characters" :character="character" />
 	</div>
 </template>
 
 <script>
+import CharacterImg from './CharacterImg.vue';
+import Character from './Character.vue';
+
 export default {
-  props: ['movie']
+  props: ['movie'],
+  components: {
+   CharacterImg
+  }
 };
 </script>
 
 <style>
-.movie-detail-wrapper p {
-	max-width: 60%;
-}
-
-.character {
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: space-around;
-	align-items: center;
-	margin-bottom: 20px;
-}
-
-.character-image {
-  border: 1px solid black;
-	box-shadow: 1px 1px black;
-	max-width: 95%;
-	/*margin: 0.5em;*/
+.movie-detail-wrapper h4 {
+  text-align: center;
+	margin: 0.5em 0;
 }
 </style>
 

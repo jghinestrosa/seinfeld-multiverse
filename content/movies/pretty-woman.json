@@ -12,31 +12,30 @@
 				"img": "george-costanza.jpg"
 			},
 			"actor": "Jason Alexander",
-			"description": "In this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsum"
+			"description": "In this universe, George Costanza is Philip Stuckey, a despicable man that..."
 		},
 		{
 			"inMovie": {
-				"name": "Landlord",
-				"img": "philip-stuckey.jpg"
+				"name": "The Landlord"
 			},
 			"inSeinfeld": {
-				"name": "George Costanza",
-				"img": "george-costanza.jpg"
+				"name": "Tom Pepper",
+				"img": "tom-pepper.jpg"
 			},
 			"actor": "Larry Hankin",
-			"description": "In this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsum"
+			"description": "In this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsum In this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsumIn this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsumIn this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsum"
 		},
 		{
 			"inMovie": {
 				"name": "Mr. Hollister",
-				"img": "philip-stuckey.jpg"
+				"img": "mr-hollister.jpg"
 			},
 			"inSeinfeld": {
-				"name": "George Costanza",
-				"img": "george-costanza.jpg"
+				"name": "The Doorman",
+				"img": "doorman.jpg"
 			},
 			"actor": "Larry Miller",
-			"description": "In this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsum"
+			"description": "Lorem ipsum"
 		}
 	]
 }
