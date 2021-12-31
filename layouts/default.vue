@@ -2,7 +2,7 @@
   <div class="default-layout">
 		<header class="layout-header">
 			<h1>Seinfeld Multiverse</h1>
-			<h2>The web about <s>nothing</s> Seinfeld characters in alternative realities</h2>
+			<h2>The web about <s>nothing</s> Seinfeld characters in alternate realities</h2>
 		</header>
 		<main>
 			<Nuxt class="hola"/>
