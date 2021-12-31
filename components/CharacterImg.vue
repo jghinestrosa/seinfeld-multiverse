@@ -17,6 +17,14 @@ export default {
 .character-image {
   border: 2px solid black;
 	max-width: 95%;
+	width: 150px;
+	margin: 0 auto;
+}
+
+@media (min-width: 800px) {
+	.character-image {
+		width: auto;
+	}
 }
 </style>
 

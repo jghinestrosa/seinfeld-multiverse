@@ -1,6 +1,5 @@
 <template>
 	<div class="movie-detail-wrapper">
-		<p>Year: {{movie.year}}</p>
 		<h4>In this universe...</h4>
 		<Character v-for="character in movie.characters" :character="character" />
 	</div>

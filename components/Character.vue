@@ -22,24 +22,38 @@ export default {
 
 <style>
 .character h5 {
+	font-size: 1.2em;
   text-align: center;
-	font-size: 1.6em;
 	margin: 1em 0;
 	text-decoration: underline;
 }
 
 .character-data {
 	display: grid;
-	grid-template-columns: 250px;
+	grid-template-columns: auto;
 	grid-gap: 10px;
 	justify-content: center;
 	margin-bottom: 20px;
+}
+
+.character-data p {
+	margin: 0;
+	text-align: center;
 }
 
 @media (min-width: 800px) {
 	.character-data {
 		grid-template-columns: 250px auto 250px;
 		justify-content: space-between;
+	}
+
+	.character-data p {
+		margin: 0;
+		text-align: left;
+	}
+
+	.character h5 {
+		font-size: 1.5em;
 	}
 }
 </style>
