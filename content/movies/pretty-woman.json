@@ -1,0 +1,43 @@
+{
+	"title": "Pretty Woman",
+	"year": "1990",
+	"characters": [
+		{
+			"inMovie": {
+				"name": "Philip Stuckey",
+				"img": "philip-stuckey.jpg"
+			},
+			"inSeinfeld": {
+				"name": "George Costanza",
+				"img": "george-costanza.jpg"
+			},
+			"actor": "Jason Alexander",
+			"description": "In this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsum"
+		},
+		{
+			"inMovie": {
+				"name": "Landlord",
+				"img": "philip-stuckey.jpg"
+			},
+			"inSeinfeld": {
+				"name": "George Costanza",
+				"img": "george-costanza.jpg"
+			},
+			"actor": "Larry Hankin",
+			"description": "In this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsum"
+		},
+		{
+			"inMovie": {
+				"name": "Mr. Hollister",
+				"img": "philip-stuckey.jpg"
+			},
+			"inSeinfeld": {
+				"name": "George Costanza",
+				"img": "george-costanza.jpg"
+			},
+			"actor": "Larry Miller",
+			"description": "In this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsum"
+		}
+	]
+}
+
