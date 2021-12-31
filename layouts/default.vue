@@ -8,7 +8,7 @@
 			<Nuxt class="hola"/>
 			<footer>
 				<p>
-					<NuxtLink to="/about">About</NuxtLink>
+					<NuxtLink class="about-link" to="/about">About</NuxtLink>
 				</p>
 				<p>
 					<img src="~assets/seinfeld-faces.GIF" alt="A gif that shows the faces of the main cast of Seinfeld" />
@@ -56,6 +56,10 @@ h2 {
 	font-size: 1em;
 	text-align: center;
 	margin: 0;
+}
+
+.about-link {
+  background: white;
 }
 
 footer {
