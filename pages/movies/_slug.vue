@@ -1,7 +1,7 @@
 <template>
 	<div>
-    <Window :header="movie.title">
-		<MovieDetail :movie="movie" />
+    <Window :header="movie.title" :enableBack="true">
+			<MovieDetail :movie="movie" />
 		</Window>
 	</div>
 </template>

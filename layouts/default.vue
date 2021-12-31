@@ -24,7 +24,7 @@ html {
   box-sizing: border-box;
 }
 
-header {
+.default header {
 	/*padding: 1em;*/
 	min-height: 22vh;
 }

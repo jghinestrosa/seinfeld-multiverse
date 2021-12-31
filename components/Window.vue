@@ -1,6 +1,9 @@
 <template>
 	<section>
-		<h3><span>{{header}}</span></h3>
+		<header>
+			<NuxtLink class="backButton" v-if="enableBack" to="/">X</NuxtLink>
+			<h3><span>{{header}}</span></h3>
+		</header>
 		<div class="window-content">
 			<slot></slot>
 		</div>
@@ -9,7 +12,7 @@
 
 <script>
 export default {
-  props: ['header']
+  props: ['enableBack', 'header'],
 };
 </script>
 
@@ -45,15 +48,25 @@ section {
   -webkit-font-smoothing: antialiased;
 }
 
-section::before {
-	content: 'X';
-  position: absolute;
+.backButton {
+	/*content: 'X';*/
+	position: absolute;
 	top: 3px;
 	left: 3px;
+	text-decoration: none;
+	color: black;
 	padding-left: 3px;
 	padding-right: 3px;
 	border: 2px solid black;
 	background: white;
+}
+
+.backButton:hover {
+	background: darkgray;
+}
+
+.backButton:active {
+	background: lightgray;
 }
 
 section .window-content {
