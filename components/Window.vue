@@ -1,5 +1,5 @@
 <template>
-	<section>
+	<section class="window-container">
 		<header>
 			<NuxtLink class="backButton" v-if="enableBack" to="/">X</NuxtLink>
 			<h3><span>{{header}}</span></h3>

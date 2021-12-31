@@ -1,6 +1,6 @@
 <template>
   <div class="default-layout">
-		<header>
+		<header class="layout-header">
 			<h1>Seinfeld Multiverse</h1>
 			<h2>The web about <s>nothing</s> Seinfeld characters in alternative realities</h2>
 		</header>
@@ -24,18 +24,17 @@ html {
   box-sizing: border-box;
 }
 
-.default header {
-	/*padding: 1em;*/
-	min-height: 22vh;
+.layout-header {
+	margin-bottom: 20px;
+	padding: 0.5em;
 }
 
 main {
-	min-height: 77vh;
 	background-image: url(~/assets/bg.png);
 }
 
 .hola {
-	min-height: 55vh;
+	margin-bottom: 30px;
 }
 
 h1 {
@@ -44,7 +43,6 @@ h1 {
 	text-shadow: 2px 2px black;
 	font-family: 'Oranienbaum';
 	font-size: 3em;
-	/*margin: 0.3em 0;*/
 	margin: 0;
 	padding: 0.3em;
 }
@@ -57,9 +55,7 @@ h2 {
 
 footer {
 	text-align: center;
-	min-height: 5vh;
 	color: white;
-	/*padding: 1.5em;*/
 }
 </style>
 
