@@ -17,7 +17,7 @@ export default {
 </script>
 
 <style>
-section h3 {
+section.window-container h3 {
   text-align: center;
 	border-bottom: 2px solid black;
 	margin: 0;
@@ -25,13 +25,13 @@ section h3 {
 	background: lightgray;
 }
 
-section h3 span {
+section.window-container h3 span {
 	background: white;
 	padding-left: 10px;
 	padding-right: 10px;
 }
 
-section {
+section.window-container {
 	position: relative;
   border: 2px solid black;
 	max-width: 90vw;
@@ -48,7 +48,7 @@ section {
   -webkit-font-smoothing: antialiased;
 }
 
-.backButton {
+section.window-container .backButton {
 	/*content: 'X';*/
 	position: absolute;
 	top: 3px;
@@ -61,20 +61,20 @@ section {
 	background: white;
 }
 
-.backButton:hover {
+section.window-container .backButton:hover {
 	background: darkgray;
 }
 
-.backButton:active {
+section.window-container .backButton:active {
 	background: lightgray;
 }
 
-section .window-content {
+section.window-container .window-content {
   padding: 0.5em; /* with vt323... with monospace maybe 1em*/
 }
 
 @media (min-width: 800px) {
-	section {
+	section.window-container {
 		max-width: 80vw;
 	}
 }
