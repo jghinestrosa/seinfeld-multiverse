@@ -5,7 +5,7 @@
 			<h2>The web about <s>nothing</s> Seinfeld characters in alternate realities</h2>
 		</header>
 		<main>
-			<Nuxt class="hola"/>
+			<Nuxt class="page-content"/>
 			<footer>
 				<p>
 					<NuxtLink class="about-link" to="/about">About</NuxtLink>
@@ -38,7 +38,7 @@ main {
 	background-image: url(~/assets/bg.png);
 }
 
-.hola {
+.page-content {
 	margin-bottom: 30px;
 }
 
