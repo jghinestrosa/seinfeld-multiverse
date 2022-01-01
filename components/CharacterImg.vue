@@ -1,5 +1,5 @@
 <template>
-	<img :src="require(`~/assets/${imgSrc2}`)" alt="" class="character-image"></img>
+	<img :src="require(`~/assets/${imgSrc2}`)" alt="" class="character-image" width="250" height="250"></img>
 </template>
 
 <script>
@@ -18,7 +18,9 @@ export default {
   border: 2px solid black;
 	max-width: 95%;
 	width: 150px;
+	height: auto;
 	margin: 0 auto;
+	background: lightgray;
 }
 
 @media (min-width: 800px) {
