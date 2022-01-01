@@ -34,7 +34,7 @@ section h3 span {
 section {
 	position: relative;
   border: 2px solid black;
-	max-width: 80vw;
+	max-width: 90vw;
 	margin: 0 auto;
   box-shadow: 3px 3px black;
 	background: white;
@@ -71,5 +71,11 @@ section {
 
 section .window-content {
   padding: 0.5em; /* with vt323... with monospace maybe 1em*/
+}
+
+@media (min-width: 800px) {
+	section {
+		max-width: 80vw;
+	}
 }
 </style>
