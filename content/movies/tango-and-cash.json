@@ -1,0 +1,80 @@
+{
+	"title": "Tango and Cash",
+	"year": "1989",
+	"characters": [
+		{
+			"inMovie": {
+				"name": "Kiki",
+				"img": "movies/tango-and-cash/kiki.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Sidra Holland",
+				"img": "seinfeld/characters/sidra-holland.jpg",
+        "season": 4,
+        "episode": 19,
+        "episodeTitle": "The Implant"
+			},
+			"actor": "Teri Hatcher",
+			"description": ""
+		},
+		{
+			"inMovie": {
+			"name": "Quan"
+			},
+			"inSeinfeld": {
+				"name": "Bruce",
+				"img": "seinfeld/characters/bruce.jpg",
+        "season": 2,
+        "episode": 11,
+        "episodeTitle": "The Chinese Restaurant"
+			},
+			"actor": "James Hong",
+			"description": ""
+		},
+		{
+			"inMovie": {
+			"name": "Nolan"
+			},
+			"inSeinfeld": {
+				"name": "Mr. Lippman"
+			},
+			"actor": "Richard Fancy",
+			"description": "",
+      "season": 3,
+      "episode": 12,
+      "episodeTitle": "The Red Dot"
+		},
+		{
+			"inMovie": {
+			"name": "Fed. Agent Davis"
+			},
+			"inSeinfeld": {
+				"name": "Landlord"
+			},
+			"actor": "Roy Brocksmith",
+			"description": "",
+      "season": 3,
+      "episode": 9,
+      "episodeTitle": "The Nose Job"
+		},
+		{
+			"inMovie": {
+			"name": "Judge"
+			},
+			"inSeinfeld": {
+				"name": "Pharmacist"
+			},
+			"actor": "David Byrd",
+			"description": "",
+      "season": 7,
+      "episode": 9,
+      "episodeTitle": "The Sponge"
+		}
+	]
+}
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+{
+	"title": "Home Alone",
+	"year": "1990",
+	"characters": [
+		{
+			"inMovie": {
+				"name": "Officer Balzak",
+				"img": "movies/home-alone/officer-balzak.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Tom Pepper",
+				"img": "seinfeld/characters/tom-pepper.jpg"
+			},
+			"actor": "Larry Hankin",
+			"description": ""
+		},
+		{
+			"inMovie": {
+				"name": "Man in Airport",
+				"img": "movies/home-alone/man-in-airport.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Sidney Fields",
+				"img": "seinfeld/characters/sidney-fields.jpg",
+        "season": 4,
+        "episode": 18,
+        "episodeTitle": "The Old Man"
+			},
+			"actor": "Bill Erwin",
+			"description": ""
+		}
+	]
+}
+
+
+
+

@@ -7,7 +7,7 @@ export default {
   props: ['imgSrc'],
   computed: {
 		imgSrc2() {
-			return this.imgSrc ? this.imgSrc : 'unknown.jpg';
+			return this.imgSrc ? this.imgSrc : 'unknown-character.jpg';
 		}
 	}
 };

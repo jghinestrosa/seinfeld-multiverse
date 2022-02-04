@@ -1,0 +1,41 @@
+{
+	"title": "Jingle All the Way",
+	"year": "1996",
+	"characters": [
+		{
+			"inMovie": {
+				"name": "Tony the Elf",
+				"img": "movies/jingle-all-the-way/tony-the-elf.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Mickey Abbott",
+				"img": "seinfeld/characters/mickey-abbott.jpg",
+        "season": 5,
+        "episode": 16,
+        "episodeTitle": "The Stand In"
+			},
+			"actor": "Danny Woodburn",
+			"description": ""
+		},
+		{
+			"inMovie": {
+				"name": "Gale Force",
+				"img": "movies/jingle-all-the-way/gale-force.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Jackie Chiles",
+				"img": "seinfeld/characters/jackie-chiles.jpg",
+        "season": 7,
+        "episode": 3,
+        "episodeTitle": "The Maestro"
+			},
+			"actor": "Phil Morris",
+			"description": ""
+		}
+	]
+}
+
+
+
+
+

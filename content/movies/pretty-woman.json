@@ -5,11 +5,11 @@
 		{
 			"inMovie": {
 				"name": "Philip Stuckey",
-				"img": "philip-stuckey.jpg"
+				"img": "movies/pretty-woman/philip-stuckey.jpg"
 			},
 			"inSeinfeld": {
 				"name": "George Costanza",
-				"img": "george-costanza.jpg"
+				"img": "seinfeld/characters/george-costanza.jpg"
 			},
 			"actor": "Jason Alexander",
 			"description": "Philip Stuckey is a despicable man in a very different way George is."
@@ -20,7 +20,7 @@
 			},
 			"inSeinfeld": {
 				"name": "Tom Pepper",
-				"img": "tom-pepper.jpg"
+				"img": "seinfeld/characters/tom-pepper.jpg"
 			},
 			"actor": "Larry Hankin",
 			"description": "Lorem ipsum lorem ipsum In this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsumIn this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsumIn this universe, George Costanza is Philip Stuckey, a lorem ipsum lorem lorem ipsum ipsum lorem. Lorem ipsum lorem ipsum"
@@ -28,11 +28,11 @@
 		{
 			"inMovie": {
 				"name": "Mr. Hollister",
-				"img": "mr-hollister.jpg"
+				"img": "movies/pretty-woman/mr-hollister.jpg"
 			},
 			"inSeinfeld": {
 				"name": "The Doorman",
-				"img": "doorman.jpg"
+				"img": "seinfeld/characters/doorman.jpg"
 			},
 			"actor": "Larry Miller",
 			"description": "Lorem ipsum"

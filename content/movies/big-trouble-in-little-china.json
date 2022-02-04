@@ -1,0 +1,38 @@
+{
+	"title": "Big Trouble in Little China",
+	"year": "1986",
+	"characters": [
+		{
+			"inMovie": {
+				"name": "Lo Pan",
+				"img": "movies/big-trouble-in-little-china/lo-pan.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Bruce",
+				"img": "seinfeld/characters/bruce.jpg",
+        "season": 2,
+        "episode": 11,
+        "episodeTitle": "The Chinese Restaurant"
+			},
+			"actor": "James Hong",
+			"description": ""
+		},
+		{
+			"inMovie": {
+				"name": "White Tiger",
+				"img": "movies/big-trouble-in-little-china/white-tiger.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Ruby",
+				"img": "seinfeld/characters/ruby.jpg",
+        "season": 6,
+        "episode": 23,
+        "episodeTitle": "The Understudy"
+			},
+			"actor": "June Kyoto Lu",
+			"description": ""
+		}
+	]
+}
+
+
