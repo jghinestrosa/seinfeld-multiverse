@@ -2,9 +2,16 @@
 	<div class="character">
 		<h5>{{character.inSeinfeld.name}} is {{character.inMovie.name}}</h5>
 		<div class="character-data">
-			<CharacterImg id="character-in-movie" :imgSrc="character.inMovie.img"/>
-			<p class="character-description">{{character.description}}</p>
 			<CharacterImg id="character-in-seinfeld" :imgSrc="character.inSeinfeld.img"/>
+			<div class="character-description">
+        <p>{{character.description}}</p>
+        <ul>
+          <li>First appearance: {{character.inSeinfeld.episodeTitle}}</li>
+          <li>Season: {{character.inSeinfeld.season}}</li>
+          <li>Episode: {{character.inSeinfeld.episode}}</li>
+        </ul>
+      </div>
+			<CharacterImg id="character-in-movie" :imgSrc="character.inMovie.img"/>
 		</div>
 	</div>
 </template>
@@ -38,18 +45,22 @@ export default {
 }
 
 #character-in-movie {
-	grid-column: 1;
+	grid-column: 2;
 	grid-row: 1;
 }
 
 #character-in-seinfeld {
-	grid-column: 2;
+	grid-column: 1;
 	grid-row: 1;
 }
 
 .character-description {
 	grid-column: 1 / 3;
 	grid-row: 2;
+}
+
+.character-description ul {
+  text-align: left;
 }
 
 .character-data p {
@@ -65,11 +76,11 @@ export default {
 	}
 
 	#character-in-movie {
-		grid-column: 1;
+		grid-column: 3;
 	}
 
 	#character-in-seinfeld {
-		grid-column: 3;
+		grid-column: 1;
 	}
 
 	.character-description {
