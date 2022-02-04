@@ -10,6 +10,8 @@
 			<p>This project DOES NOT include those movies where only one single actor or actress from Seinfeld appears. At least two actors or actresses should play a role in the same movie. It doesn't matter if they don't interact between them.</p>
 			<h4>I want to collaborate!</h4>
 			<p>TBD</p>
+			<h4>Disclaimer</h4>
+      <p>Seinfeld is created by Jerry Seinfeld and Larry David for NBC. Seinfeld and its properties are not affiliated to Seinfeld Multiverse in any way. The data and images are used without claim of ownership and belong to their respective owners. This is a personal project and there is no commercial purpose intended now or ever. No cookies, no tracking, no ads.</p>
 			<p>Have fun and giddy up!</p>
 			<img src="~assets/kramer.gif" alt="A gif that shows Kramer, from Seinfeld, shaking" />
 		</Window>
