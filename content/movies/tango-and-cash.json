@@ -20,7 +20,8 @@
 		},
 		{
 			"inMovie": {
-			"name": "Quan"
+			"name": "Quan",
+				"img": "movies/tango-and-cash/quan.jpg"
 			},
 			"inSeinfeld": {
 				"name": "Bruce",
@@ -37,39 +38,41 @@
 			"name": "Nolan"
 			},
 			"inSeinfeld": {
-				"name": "Mr. Lippman"
+				"name": "Mr. Lippman",
+        "season": 3,
+        "episode": 12,
+        "episodeTitle": "The Red Dot"
 			},
 			"actor": "Richard Fancy",
-			"description": "",
-      "season": 3,
-      "episode": 12,
-      "episodeTitle": "The Red Dot"
+			"description": ""
 		},
 		{
 			"inMovie": {
 			"name": "Fed. Agent Davis"
 			},
 			"inSeinfeld": {
-				"name": "Landlord"
-			},
-			"actor": "Roy Brocksmith",
-			"description": "",
+				"name": "Landlord",
       "season": 3,
       "episode": 9,
       "episodeTitle": "The Nose Job"
+			},
+			"actor": "Roy Brocksmith",
+			"description": ""
 		},
 		{
 			"inMovie": {
-			"name": "Judge"
+			  "name": "Judge",
+				"img": "movies/tango-and-cash/judge.jpg"
 			},
 			"inSeinfeld": {
-				"name": "Pharmacist"
+				"name": "Pharmacist",
+				"img": "seinfeld/characters/pharmacist.jpg",
+        "season": 7,
+        "episode": 9,
+        "episodeTitle": "The Sponge"
 			},
 			"actor": "David Byrd",
-			"description": "",
-      "season": 7,
-      "episode": 9,
-      "episodeTitle": "The Sponge"
+			"description": ""
 		}
 	]
 }

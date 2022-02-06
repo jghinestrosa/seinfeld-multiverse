@@ -1,12 +1,12 @@
 <template>
-	<div class="movie-detail-wrapper">
+  <div class="movie-detail-wrapper">
     <div class="movie-metadata">
       <p>Directed by: {{movie.director}}</p>
       <p>Year: {{movie.year}}</p>
     </div>
-		<h4>In this universe...</h4>
-		<Character v-for="character in movie.characters" :character="character" />
-	</div>
+    <h4>In this universe...</h4>
+    <Character v-for="character in movie.characters" :character="character" />
+  </div>
 </template>
 
 <script>
@@ -28,7 +28,7 @@ export default {
 }
 
 .movie-detail-wrapper .movie-metadata {
-  margin-bottom: 2em;
+  margin-bottom: 1.3em;
 }
 
 .movie-detail-wrapper .movie-metadata p {
