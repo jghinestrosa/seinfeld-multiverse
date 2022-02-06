@@ -6,6 +6,7 @@
 			<div class="character-description">
         <p>{{character.description}}</p>
         <ul>
+          <li>Played by: {{character.actor}}</li>
           <li>First appearance: {{character.inSeinfeld.episodeTitle}}</li>
           <li>Season: {{character.inSeinfeld.season}}</li>
           <li>Episode: {{character.inSeinfeld.episode}}</li>
