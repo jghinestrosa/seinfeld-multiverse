@@ -1,0 +1,54 @@
+{
+	"title": "Twin Peaks: Fire Walk With Me",
+	"year": "1992",
+  "director": "David Lynch",
+	"characters": [
+		{
+			"inMovie": {
+				"name": "Sarah Palmer",
+				"img": "movies/twin-peaks-fire-walk-with-me/sarah-palmer.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Mrs. Ross",
+				"img": "seinfeld/characters/mrs-ross.jpg",
+        "season": 4,
+        "episode": 8,
+        "episodeTitle": "The Cheever Letters"
+			},
+			"actor": "Grace Zabriskie",
+			"description": ""
+		},
+		{
+			"inMovie": {
+				"name": "Mrs. Tremond",
+				"img": "movies/twin-peaks-fire-walk-with-me/mrs-tremond.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Mabel Choate",
+				"img": "seinfeld/characters/mabel-choate.jpg",
+        "season": 7,
+        "episode": 11,
+        "episodeTitle": "The Rye"
+			},
+			"actor": "Frances Bay",
+			"description": ""
+		},
+		{
+			"inMovie": {
+				"name": "Jacques Renault",
+				"img": "movies/twin-peaks-fire-walk-with-me/jacques-renault.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Nick",
+				"img": "seinfeld/characters/nick.jpg",
+        "season": 7,
+        "episode": 14,
+        "episodeTitle": "The Cadillac"
+			},
+			"actor": "Walter Olkewicz ",
+			"description": ""
+		}
+	]
+}
+
+

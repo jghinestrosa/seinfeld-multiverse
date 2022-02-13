@@ -39,6 +39,7 @@
 			},
 			"inSeinfeld": {
 				"name": "Mr. Lippman",
+				"img": "seinfeld/characters/mr-lippman.jpg",
         "season": 3,
         "episode": 12,
         "episodeTitle": "The Red Dot"
@@ -52,9 +53,10 @@
 			},
 			"inSeinfeld": {
 				"name": "Landlord",
-      "season": 3,
-      "episode": 9,
-      "episodeTitle": "The Nose Job"
+				"img": "seinfeld/characters/landlord.jpg",
+        "season": 3,
+        "episode": 9,
+        "episodeTitle": "The Nose Job"
 			},
 			"actor": "Roy Brocksmith",
 			"description": ""
