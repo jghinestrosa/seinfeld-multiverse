@@ -1,0 +1,55 @@
+{
+	"title": "Blind Date",
+	"year": "1987",
+  "director": "Blake Edwards",
+	"characters": [
+		{
+			"inMovie": {
+				"name": "Mr. Yakamoto",
+				"img": "movies/blind-date/mr-yakamoto.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Executive #1",
+				"img": "seinfeld/characters/executive-1.jpg",
+        "season": 8,
+        "episode": 7,
+        "episodeTitle": "The Checks"
+			},
+			"actor": "Sab Shimono",
+			"description": ""
+		},
+		{
+			"inMovie": {
+				"name": "French Waiter",
+				"img": "movies/blind-date/french-waiter.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Stan",
+				"img": "seinfeld/characters/stan-the-caddy.jpg",
+        "season": 7,
+        "episode": 12,
+        "episodeTitle": "The Caddy"
+			},
+			"actor": "Armin Shimerman",
+			"description": ""
+		},
+		{
+			"inMovie": {
+				"name": "Maitre",
+				"img": "movies/blind-date/maitre.jpg"
+			},
+			"inSeinfeld": {
+				"name": "Babu Bhatt",
+				"img": "seinfeld/characters/babu-bhatt.jpg",
+        "season": 7,
+        "episode": 3,
+        "episodeTitle": "The Cafe"
+			},
+			"actor": "Brian George",
+			"description": ""
+		}
+	]
+}
+
+
+
