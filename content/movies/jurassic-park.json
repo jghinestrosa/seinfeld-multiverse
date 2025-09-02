@@ -1,0 +1,34 @@
+{
+  "title": "Jurassic Park",
+  "year": "1993",
+  "director": "Steven Spielberg",
+  "characters": [
+    {
+      "inMovie": {
+        "name": "Nedry",
+        "img": ""
+      },
+      "inSeinfeld": {
+        "name": "Newman",
+        "img": ""
+      },
+      "actor": "Wayne Knight",
+      "description": ""
+    },
+    {
+      "inMovie": {
+        "name": "Rostagno",
+        "img": ""
+      },
+      "inSeinfeld": {
+        "name": "Marcelino",
+        "img": "",
+        "season": 8,
+        "episode": 11,
+        "episodeTitle": "The Little Jerry"
+      },
+      "actor": "Miguel Sandoval",
+      "description": ""
+    }
+  ]
+}
