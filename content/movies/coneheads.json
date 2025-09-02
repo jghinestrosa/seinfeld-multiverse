@@ -1,0 +1,31 @@
+{
+  "title": "Coneheads",
+  "year": "1995",
+  "director": "Barry Sonnenfeld",
+  "characters": [
+    {
+      "inMovie": {
+        "name": "Motel Clerk",
+        "img": ""
+      },
+      "inSeinfeld": {
+        "name": "Kramer",
+        "img": ""
+      },
+      "actor": "Michael Richards",
+      "description": ""
+    },
+    {
+      "inMovie": {
+        "name": "Larry Farber",
+        "img": ""
+      },
+      "inSeinfeld": {
+        "name": "George Costanza",
+        "img": "seinfeld/characters/george-costanza.jpg"
+      },
+      "actor": "Jason Alexander",
+      "description": ""
+    }
+  ]
+}
