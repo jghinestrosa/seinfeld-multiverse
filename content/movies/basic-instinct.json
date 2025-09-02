@@ -1,0 +1,64 @@
+{
+  "title": "Basic Instinct",
+  "year": "1992",
+  "director": "Paul Verhoeven",
+  "characters": [
+    {
+      "inMovie": {
+        "name": "John Correli",
+        "img": ""
+      },
+      "inSeinfeld": {
+        "name": "Newman",
+        "img": ""
+      },
+      "actor": "Wayne Knight",
+      "description": ""
+    },
+    {
+      "inMovie": {
+        "name": "Lt. Martin Nilsen",
+        "img": ""
+      },
+      "inSeinfeld": {
+        "name": "Kruger",
+        "img": "",
+        "season": 9,
+        "episode": 7,
+        "episodeTitle": "The Slicer"
+      },
+      "actor": "Daniel von Bargen",
+      "description": ""
+    },
+    {
+      "inMovie": {
+        "name": "Dr. Lamott",
+        "img": ""
+      },
+      "inSeinfeld": {
+        "name": "Tor Eckman",
+        "img": "",
+        "season": 2,
+        "episode": 8,
+        "episodeTitle": "The Heart Attack"
+      },
+      "actor": "Stephen Tobolowsky",
+      "description": ""
+    },
+    {
+      "inMovie": {
+        "name": "Dr. McElwaine",
+        "img": ""
+      },
+      "inSeinfeld": {
+        "name": "D.A. Hoyt",
+        "img": "",
+        "season": 9,
+        "episode": 22,
+        "episodeTitle": "The Finale"
+      },
+      "actor": "James Rebhorn",
+      "description": ""
+    }
+  ]
+}
