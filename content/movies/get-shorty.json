@@ -1,0 +1,52 @@
+{
+  "title": "Get Shorty",
+  "year": "1995",
+  "director": "Barry Sonnenfeld",
+  "characters": [
+    {
+      "inMovie": {
+        "name": "Ronnie Wingate",
+        "img": ""
+      },
+      "inSeinfeld": {
+        "name": "Homeless Man",
+        "img": "",
+        "season": 6,
+        "episode": 15,
+        "episodeTitle": "The Beard"
+      },
+      "actor": "Jon Gries",
+      "description": ""
+    },
+    {
+      "inMovie": {
+        "name": "Mr. Escobar",
+        "img": ""
+      },
+      "inSeinfeld": {
+        "name": "Marcelino",
+        "img": "",
+        "season": 8,
+        "episode": 11,
+        "episodeTitle": "The Little Jerry"
+      },
+      "actor": "Miguel Sandoval",
+      "description": ""
+    },
+    {
+      "inMovie": {
+        "name": "Fred the Barber",
+        "img": ""
+      },
+      "inSeinfeld": {
+        "name": "Gepetto",
+        "img": "",
+        "season": 5,
+        "episode": 10,
+        "episodeTitle": "The Cigar Store Indian"
+      },
+      "actor": "Ralph Manza",
+      "description": ""
+    }
+  ]
+}
