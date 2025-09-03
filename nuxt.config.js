@@ -11,18 +11,23 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      {
+        hid: 'description',
+        name: 'description',
+        content:
+          'A website that collects movies where Seinfeld actors and actresses played together',
+      },
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-	css: [
-	  '~/assets/global.css',
-	  '~/assets/fonts/oranienbaum.css',
-	  '~/assets/fonts/vt323.css'
-	],
+  css: [
+    '~/assets/global.css',
+    '~/assets/fonts/oranienbaum.css',
+    '~/assets/fonts/vt323.css',
+  ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
@@ -34,14 +39,12 @@ export default {
   buildModules: [],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-	modules: [
-		'@nuxt/content'
-	],
+  modules: ['@nuxt/content'],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
 
-	server: {
-		host: '0.0.0.0'
-	}
+  server: {
+    host: '0.0.0.0',
+  },
 }
