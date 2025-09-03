@@ -13,7 +13,7 @@
         <p>
           <img src="~assets/seinfeld-faces.GIF" alt="A gif that shows the faces of the main cast of Seinfeld" />
         </p>
-        <p class="footer-message">Made with love and yada yada yada</p>
+        <p class="footer-message">Made with love and yada yada yada by <a href="https://jghinestrosa.com" target="_blank">jghinestrosa</a></p>
       </footer>
     </main>
   </div>
@@ -69,6 +69,10 @@ footer {
 
 .footer-message {
   text-shadow: 1px 1px black;
+}
+
+.footer-message a {
+  text-shadow: none;
 }
 </style>
 
