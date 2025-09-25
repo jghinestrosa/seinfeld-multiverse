@@ -6,11 +6,11 @@
     {
       "inMovie": {
         "name": "Motel Clerk",
-        "img": ""
+        "img": "movies/coneheads/motel-clerk.jpg"
       },
       "inSeinfeld": {
         "name": "Kramer",
-        "img": ""
+        "img": "seinfeld/characters/kramer.jpg"
       },
       "actor": "Michael Richards",
       "description": ""
@@ -18,7 +18,7 @@
     {
       "inMovie": {
         "name": "Larry Farber",
-        "img": ""
+        "img": "movies/coneheads/larry-farber.jpg"
       },
       "inSeinfeld": {
         "name": "George Costanza",
