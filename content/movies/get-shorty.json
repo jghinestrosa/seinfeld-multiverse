@@ -6,11 +6,11 @@
     {
       "inMovie": {
         "name": "Ronnie Wingate",
-        "img": ""
+        "img": "movies/get-shorty/ronnie-wingate.jpg"
       },
       "inSeinfeld": {
         "name": "Homeless Man",
-        "img": "",
+        "img": "seinfeld/characters/homeless-man.jpg",
         "season": 6,
         "episode": 15,
         "episodeTitle": "The Beard"
@@ -21,11 +21,11 @@
     {
       "inMovie": {
         "name": "Mr. Escobar",
-        "img": ""
+        "img": "movies/get-shorty/mr-escobar.jpg"
       },
       "inSeinfeld": {
         "name": "Marcelino",
-        "img": "",
+        "img": "seinfeld/characters/marcelino.jpg",
         "season": 8,
         "episode": 11,
         "episodeTitle": "The Little Jerry"
@@ -36,11 +36,11 @@
     {
       "inMovie": {
         "name": "Fred the Barber",
-        "img": ""
+        "img": "movies/get-shorty/fred-the-barber.jpg"
       },
       "inSeinfeld": {
         "name": "Gepetto",
-        "img": "",
+        "img": "seinfeld/characters/gepetto.jpg",
         "season": 5,
         "episode": 10,
         "episodeTitle": "The Cigar Store Indian"
