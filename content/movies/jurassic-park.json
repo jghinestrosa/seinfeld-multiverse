@@ -6,11 +6,14 @@
     {
       "inMovie": {
         "name": "Nedry",
-        "img": ""
+        "img": "movies/jurassic-park/nedry.jpg"
       },
       "inSeinfeld": {
         "name": "Newman",
-        "img": ""
+        "img": "seinfeld/characters/newman.jpg",
+        "season": 3,
+        "episode": 15,
+        "episodeTitle": "The Suicide"
       },
       "actor": "Wayne Knight",
       "description": ""
@@ -18,7 +21,7 @@
     {
       "inMovie": {
         "name": "Rostagno",
-        "img": ""
+        "img": "movies/jurassic-park/rostagno.jpg"
       },
       "inSeinfeld": {
         "name": "Marcelino",
